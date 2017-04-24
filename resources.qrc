@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>tic_tac_toe/board.png</file>
+        <file>tic_tac_toe/end_screen.png</file>
+        <file>tic_tac_toe/o_piece.png</file>
+        <file>tic_tac_toe/replay_button.png</file>
+        <file>tic_tac_toe/start_button.png</file>
+        <file>tic_tac_toe/start_image.png</file>
+        <file>tic_tac_toe/x_piece.png</file>
+    </qresource>
+</RCC>
